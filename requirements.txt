@@ -1,0 +1,5 @@
+spacy
+pytesseract
+opencv-python
+pillow
+PyMuPDF

@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Ignore generated files
+redacted_*
+report.txt
+
+# OS files
+.DS_Store
+Thumbs.db
