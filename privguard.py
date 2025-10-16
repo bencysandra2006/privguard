@@ -335,7 +335,7 @@ def main(argv):
     else:
         print("[*] No files processed — nothing to report.")
 
-    print("✅ Done.")
+    print("Done.")
     return 0
 
 
